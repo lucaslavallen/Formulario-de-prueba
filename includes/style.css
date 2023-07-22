@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+  }
+  
+
+ul {
+    list-style: none;
+  }
+
+
+  /* FORMULARIO ESTILO */
+  .formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajusta la altura según tus necesidades */
+  }
+  
